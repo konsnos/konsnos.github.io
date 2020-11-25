@@ -31,7 +31,7 @@ twitter_username:
 github_username:  konsnos
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
