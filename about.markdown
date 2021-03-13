@@ -8,7 +8,7 @@ Hey, thanks for dropping by!
 
 My name is Konstantinos Egkarchos, I'm from Greece and I'm a freelance software developer.
 
-I love making games. I started with Flash and ActionScript 3. Then I jumped into Unity and after a lot of years in the industry I consider myself an expert. I make simple and complicated games and apps with it. Check out my [LinkedIn](https://www.linkedin.com/in/konsnos/). I'm a great fan of AR and the like. If you like it too then drop me a message!
+I love making games. I started with Flash and ActionScript 3. Then I jumped into Unity and after a lot of years in the industry I consider myself an expert. I make both simple and complicated games and apps with it. Check out my [LinkedIn](https://www.linkedin.com/in/konsnos/). I'm a great fan of AR and the like. If you like it too then drop me a message!
 
 I tend to dabble in other languages too depending on what I wish to make. Although usually successful most are horribly made. Here is a useless list of some:
 * A DnD database with PHP, SQL and AJAX, with spells and monsters long before *Wizards* decided that it was worth it. Repeated it with Dark Heresy II.
