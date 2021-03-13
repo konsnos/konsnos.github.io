@@ -12,7 +12,7 @@ I love making games. I started with Flash and ActionScript 3. Then I jumped into
 
 I tend to dabble in other languages too depending on what I wish to make. Although usually successful, most are horribly made. Here is a useless list of some:
 * A DnD database with PHP, SQL and AJAX, with spells and monsters long before *Wizards* decided that it was worth it. Repeated it with Dark Heresy II.
-* Dice roller with rooms with JQuary and Socket.io. [1](https://bitbucket.org/konsnos/d-roller/src)
+* Dice roller with rooms with jQuery and Socket.io. [1](https://bitbucket.org/konsnos/d-roller/src)
 * A Four in a Row bot in C#. [1](https://bitbucket.org/konsnos/couriertracking/src/master/)
 * A software in C++ that read a huge library of textures for game development, made thumbnails for them and created a json list that presented a material with all its texture components (Diffuse, Normal, Bump, Height, etc.). Then an html page that read and presented it.[1](https://bitbucket.org/konsnos/texturesxmlexporter/src/master/),[2](https://bitbucket.org/konsnos/textures-showcaser/src/master/)
 * A command line lottery in C# for gifts at a local game devs meeting.[1](https://bitbucket.org/konsnos/rpi-rover/src/master/)
