@@ -22,9 +22,9 @@ title: Konstantinos Egkarchos
 email: konsnosl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Unity Developer. C# expert. 
-  dabbles in other languages a lot.
-  Loves AR and the like
-  Wants to change the world
+  Dabbles in multiple languages.
+  Loves AR and the like.
+  Wants to change the world.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://konsnos.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
