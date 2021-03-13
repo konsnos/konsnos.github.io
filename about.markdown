@@ -26,4 +26,4 @@ I love reading fantasy and non-fantasy books.[1](https://www.goodreads.com/user/
 
 I'm active in my local game dev scene. If you want to become a freelance game developer in Greece, I know it's complicated and can guide you.
 
-As a side job I raise my two kids and cat. Some of them don't appreciate the attention. [1](https://www.goodreads.com/book/show/15799936-how-to-tell-if-your-cat-is-plotting-to-kill-you)
+As a side job I raise my two kids. I've read the manual and consider myself an expert. [1](https://www.goodreads.com/book/show/716925)
