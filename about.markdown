@@ -22,7 +22,7 @@ I tend to dabble in other languages too depending on what I wish to make. Althou
 * An Arduino weather app. [1](https://bitbucket.org/konsnos/arduino_wifi_weather/src/master/),[2](https://youtu.be/3M31VxNbEMs)
 * A rover with Raspberry Pi and C. [1](https://bitbucket.org/konsnos/rpi-rover/src/master/)
 
-I love reading fantasy and non-fantasy books.[1](https://www.goodreads.com/user/show/14902929-konstantinos-egarhos). If you want to talk about Warhammer 40.000 send me a message from your astropath.
+I love reading fantasy and non-fantasy books.[1](https://www.goodreads.com/user/show/14902929-konstantinos-egarhos). If you want to talk about Warhammer 40.000 send me a message via your astropath.
 
 I'm active in my local game dev scene. If you want to become a freelance game developer in Greece, I know it's complicated and can guide you.
 
