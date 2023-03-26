@@ -6,6 +6,8 @@ permalink: /about/
 
 Hi,
 
+My name is Konstantinos Egkarchos,
+
 I'm a professional game developer. I am making games professionally from 2012 and using Unity from 2014. Games that I've been a part of have been downloaded by thousands of happy players.
 
 My expertise is gameplay and my passion is to understand how various games work, thus trying to analyze the design and how I would proceed with the implementation. Having said that, I enjoy dabbling in various areas of game development such as AR, AI and performance.
