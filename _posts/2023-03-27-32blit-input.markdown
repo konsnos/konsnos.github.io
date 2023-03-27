@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "32blit sdk input"
+title:  "32blit SDK input"
+date:   2023-03-27
 categories: 32blit
 ---
 
