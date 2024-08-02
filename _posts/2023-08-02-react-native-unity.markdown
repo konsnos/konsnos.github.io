@@ -14,7 +14,7 @@ For the integration I used [azesmway/react-native-unity](https://github.com/azes
 
 In the end I followed the instructions of [dev.family's blog](https://dev.family/blog/article/integrating-unity-code-into-react-native). In the end of the post there were a couple of links from the sample app they made which I cloned. And their repo worked! From that I understood how the folder structure worked in the plug-in. To build the framework I had to select it from XCode and run it.
 
-[UnityFramework build](images/build_framework.png)
+![XCode UnityFramework build](/docs/assets/images/build_framework.png)
 
 After the build find it from the DerivedData folder and copy it to `/unity/builds/ios` path. In that path I added another framework I needed to include, although I also had to add that in XCode as well. So placing it inside the folder isn't required but helps me organise stuff.
 
